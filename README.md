@@ -1,7 +1,7 @@
 # <div align="center"> Hi there, I'm Hejin 🌞 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hejin-jeong"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hejin-jeong" alt="Linkedin"></a>      School: <a href="mailto:jeong22h@mtholyoke.edu?"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:jeong22h@mtholyoke.edu" alt="School email"></a>      Personal: <a href="mailto:pearlofthesea25@gmail.com?"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=orange&link=mailto:pearlofthesea25@gmail.com" alt="Personal email"</a>
+  <a href="https://www.linkedin.com/in/hejin-jeong"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hejin-jeong" alt="Linkedin"></a>emspSchool: <a href="mailto:jeong22h@mtholyoke.edu?"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:jeong22h@mtholyoke.edu" alt="School email"></a>emspPersonal: <a href="mailto:pearlofthesea25@gmail.com?"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=orange&link=mailto:pearlofthesea25@gmail.com" alt="Personal email"</a>
 
 </div>
 
