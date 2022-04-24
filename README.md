@@ -1,12 +1,15 @@
 # <div align="center"> Hi there, I'm Hejin 🌞 </div>
+
 <div align="center">
-  <a href="">![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hejin-jeong)</a>; 
-  School: <a href="">[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:jeong22h@mtholyoke.edu)](mailto:jeong22h@mtholyoke.edu)</a>; 
-  Personal: <a href="">[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:pearlofthesea25@gmail.com)](mailto:pearlofthesea25@gmail.com)</a>;
+  <a href="https://www.linkedin.com/in/hejin-jeong"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hejin-jeong" alt="Linkedin"></a>
+        
+  School: <a href="mailto:jeong22h@mtholyoke.edu?"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:jeong22h@mtholyoke.edu" alt="School email"></a>
+        
+  Personal: <a href="mailto:pearlofthesea25@gmail.com?"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:pearlofthesea25@gmail.com" alt="Personal email"</a>
 
 </div>
 
-#### <div align="center"> I am a junior CS major at Mount Holyoke College. I love learning new technologies and culture. <br /> With my skills and knowledge, I aspire to create social impacts! </div>
+### <div align="center"> I am a junior CS major at Mount Holyoke College. I love learning new technologies and culture. <br /> With my skills and knowledge, I aspire to create social impacts! </div>
 
 <br /> 
 
@@ -15,7 +18,7 @@
 
 <br />
 
-![Hejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hejin-jeong&show_icons=true&theme=radical)
+![Hejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hejin-jeong&show_icons=true&theme=tokyonight)
 
 <br />
 
