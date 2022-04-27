@@ -4,7 +4,7 @@
 
 </div>
 
-### <div align="center"> I am a junior CS major at Mount Holyoke College. I love learning new ⚡technologies and 🌻culture. <br /> With my skills and knowledge, I aspire to create 💫social impacts. </div>
+### <div align="center"> I am a junior CS major at Mount Holyoke College. I love learning new ⚡technologies and 🌻cultures. <br /> With my skills and knowledge, I aspire to create 💫social impacts. </div>
 
 <br /> 
 
