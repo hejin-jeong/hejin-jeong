@@ -4,12 +4,13 @@
 
 </div>
 
-### <div align="center"> I am a junior CS major at Mount Holyoke College. I love learning new ⚡technologies and 🌻cultures. <br /> With my skills and knowledge, I aspire to create 💫social impacts. </div>
+### <div align="center"> I am a rising senior CS major at Mount Holyoke College. I love learning new ⚡technologies and 🌻cultures. <br /> With my skills and knowledge, I aspire to create 💫social impacts. </div>
 
 <br /> 
 
-- 🎮 I’m currently working on Java Wordle game program.
-- 🗃️ I’m currently learning backend development.
+- 📱 I’m currently working on React Native app.
+- 🗃️ I’m currently learning C#, SQL, and backend development.
+- 🎮 I've worked on Java Wordle game program.
 
 <br />
 
