@@ -8,8 +8,8 @@
 
 <br /> 
 
-- 📱 I’m currently working on React Native app.
-- 🗃️ I’m currently learning C#, SQL, and backend development.
+- 📱 I’m currently working on converting class components into functional components of React Native app and HackHolyoke website.
+- 🗃️ I’m currently learning Kotlin, C#, SQL, and backend development.
 - 🎮 I've worked on Java Wordle game program.
 
 <br />
