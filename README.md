@@ -1,15 +1,15 @@
 # <div align="center"> Hi there, I'm Hejin 🌞 </div>
 <div align="center">
-  <a href="https://www.linkedin.com/in/hejin-jeong"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hejin-jeong" alt="Linkedin"></a>&emsp;School: <a href="mailto:jeong22h@mtholyoke.edu?"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:jeong22h@mtholyoke.edu" alt="School email"></a>&emsp;Personal: <a href="mailto:pearlofthesea25@gmail.com?"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=orange&link=mailto:pearlofthesea25@gmail.com" alt="Personal email"></a>
+  <a href="https://hejin-jeong.web.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://hejin-jeong.web.app/" alt="Website"></a>&emsp;<a href="https://www.linkedin.com/in/hejin-jeong"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee&link=https://www.linkedin.com/in/hejin-jeong" alt="Linkedin"></a>&emsp;School: <a href="mailto:jeong22h@mtholyoke.edu?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jeong22h@mtholyoke.edu" alt="School email"></a>&emsp;Personal: <a href="mailto:pearlofthesea25@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=orange&link=mailto:pearlofthesea25@gmail.com" alt="Personal email"></a>
 
 </div>
 
-### <div align="center"> I am a rising senior CS major at Mount Holyoke College. I love learning new ⚡technologies and 🌻cultures. <br /> With my skills and knowledge, I aspire to create 💫social impacts. </div>
+### <div align="center"> I am a senior CS major at Mount Holyoke College. I love learning new ⚡technologies and 🌻cultures. <br /> With my skills and knowledge, I aspire to create 💫social impacts. </div>
 
 <br /> 
 
 - 📱 I’m currently working on converting class components into functional components of React Native app and [HackHolyoke](https://hackholyoke.com/) website.
-- 🗃️ I’m currently learning Kotlin, C#, SQL, and backend development.
+- 🗃️ I’m currently learning backend development.
 - 🎮 I've worked on Java Wordle game program.
 
 <br />
@@ -57,4 +57,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+email: "https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:jeong22h@mtholyoke.edu"
+linkedin: "https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hejin-jeong" 
 -->
