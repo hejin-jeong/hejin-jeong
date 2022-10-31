@@ -8,9 +8,11 @@
 
 <br /> 
 
+<!--
 - 📱 I’m currently working on converting class components into functional components of React Native app and [HackHolyoke](https://hackholyoke.com/) website.
-- 🗃️ I’m currently learning backend development.
-- 🎮 I've worked on Java Wordle game program.
+-->
+- 🗃️ I’m currently learning C, assembly languages, and backend development.
+- 🎮 I've worked on Java Wordle game program and React [HackHolyoke](https://hackholyoke.com/) website.
 
 <br />
 
@@ -31,6 +33,8 @@ Languages:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 Frameworks: 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -39,6 +43,7 @@ Frameworks:
 ![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Cocoapods](https://img.shields.io/badge/cocoapods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 
 
