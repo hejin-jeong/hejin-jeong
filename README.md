@@ -12,7 +12,7 @@
 - 📱 I’m currently working on converting class components into functional components of React Native app and [HackHolyoke](https://hackholyoke.com/) website.
 -->
 - 🗃️ I’m currently learning C, assembly languages, and backend development.
-- 🎮 I've worked on Java Wordle game program and React [HackHolyoke](https://hackholyoke.com/) website.
+- 🎮 I've worked on Java Wordle game program and React [HackHolyoke](https://hackholyoke.org/) website.
 
 <br />
 
